@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+header a {
+    background-color: darkblue;
+    color:white;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+}
+header h {
+    color:blue;
+
+}
+ 
+ h1 {
+    text-align:center;
+    color:blue;
+ }
+ footer p {
+    background-color: blueviolet;
+ }
+ 
+
+nav{
+    margin: 20px;
+    padding: 10px;
+    border:2px solid blue;
+    border-radius: 10px;
+}
+ 
+ 
+ nav a{
+    margin:20px;
+    font-size:20px;
+    color:white;
+    horder: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+ }
+ 
+ .production {
+    background-color: brown;
+ }
+ 
+h2 {
+    color:blue;
+    font-size: 20px;
+    margin: 20px;
+     
+}
+a {
+    horder:2px solid aqua;
+    color:aqua;
+
+
+}
+img {
+    horder-radius: 10px;
+    
+}
